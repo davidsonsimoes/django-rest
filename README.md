@@ -3,9 +3,6 @@ API simples com Django Rest Framework
 
 |build-status-image| |pypi-version|
 
-Detalhes
---------
-
 Este repositório consiste em um modelo simples de criação de API utilizando python django com django rest framework.
 
 Requirements
