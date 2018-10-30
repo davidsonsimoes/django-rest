@@ -27,7 +27,16 @@ Ative a Virtualenv
 
     $ . venv/bin/activate
     
+Instalando Django
+
+    $ pip install django
+    
 Instale as dependencias
 
-    $ pip install requeiriments.txt
+    $ pip install --upgrade -r requirements.txt
+    
+
+Rode o Projeto
+
+    $ python api/manage.py runserver
 
