@@ -22,25 +22,17 @@ Instalação
 
 Clone o repositório
 
-.. code:: bash
-
     $ git clone git@github.com:davidsonsimoes/django-rest.git && cd django-rest
     
 Crie uma Virtualenv
-
-.. code:: bash
 
     $ python3 -m venv venv
     
 Ative a Virtualenv
 
-.. code:: bash
-
     $ . venv/bin/activate
     
 Instale as dependencias
-
-.. code:: bash
 
     $ pip install requeiriments.txt
 
